@@ -1,0 +1,6 @@
+projectKey=module7
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=module7
+ceTaskId=AY4WqrT7IjgozLWz46xO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY4WqrT7IjgozLWz46xO
